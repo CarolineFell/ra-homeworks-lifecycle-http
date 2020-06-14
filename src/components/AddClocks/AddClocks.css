@@ -1,0 +1,13 @@
+.label {
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.ui.gray.button {
+  text-transform: uppercase;
+}
+
+.ui.gray.button:hover {
+  background-color: rgb(48, 204, 48);
+  color: white;
+}
